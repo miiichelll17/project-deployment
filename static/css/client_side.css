@@ -26,13 +26,13 @@
 body {
 	font: 400 15px Lato, sans-serif;
 	line-height: 1.8;
-	color: #818181;
+	color: #020f31;
 }
 
 h2 {
 	font-size: 24px;
 	text-transform: uppercase;
-	color: #28ace5;
+	color: #020f31;
 	font-weight: 600;
 	margin-bottom: 30px;
 }
@@ -40,7 +40,7 @@ h2 {
 h3 {
 	font-size: 22px;
 	line-height: 1.375em;
-	color: #28ace5;
+	color: #020f31;
 	font-weight: 500;
 	margin-bottom: 30px;
 }  
@@ -48,7 +48,7 @@ h3 {
 h4 {
 	font-size: 19px;
 	line-height: 1.375em;
-	color: #28ace5;
+	color: #020f31;
 	font-weight: 400;
 	margin-bottom: 30px;
 }  
@@ -58,27 +58,27 @@ h4 {
 }
 
 .bg-blue {
-	background-color: #bde2f9;
+	background-color: #020f31;
 }
 
 .logo-small {
-	color: #28ace5;
+	color: #020f31;
 	font-size: 50px;
 }
 
 .logo {
-	color: #28ace5;
+	color: #020f31;
 	font-size: 200px;
 }
 
 .navbar {
 	margin-bottom: 0;
-	background-color: #28ace5;
+	background-color: #020f31;
 	z-index: 9999;
 	border: 0;
 	font-size: 12px !important;
 	line-height: 1.42857143 !important;
-	letter-spacing: 4px;
+	letter-spacing: 2px;
 	border-radius: 0;
 }
 
@@ -87,7 +87,7 @@ h4 {
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-	color: #28ace5 !important;
+	color: #020f31 !important;
 	background-color: #fff !important;
 }
 
@@ -97,9 +97,9 @@ h4 {
 }
   
 footer .glyphicon {
-	font-size: 20px;
+	font-size: 30px;
 	margin-bottom: 20px;
-	color: #28ace5;
+	color: #020f31;
 }
   
 .slideanim {
@@ -153,7 +153,7 @@ footer .glyphicon {
   width: 25px;
   height: 25px;
   border-radius: 50%; 
-  background: #28ace5;
+  background: #020f31;
   cursor: pointer;
 }
 
@@ -161,7 +161,10 @@ footer .glyphicon {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background: #28ace5;
+  background: #020f31;
   cursor: pointer;
 }
   
+#aplikasi{
+	align-items: center;
+}
